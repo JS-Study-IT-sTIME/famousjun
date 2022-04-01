@@ -6,7 +6,7 @@
 
 # 2. Calculator
 
-# ![image](https://user-images.githubusercontent.com/100067869/161211824-75baf111-9067-471b-a4aa-93ca05279ce8.png)
+# ![image](https://user-images.githubusercontent.com/100067869/161212324-c0c82af6-bdd5-46f5-879e-b773150316b1.png)
 
 # 3. RSP
 
