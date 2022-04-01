@@ -7,14 +7,14 @@ table, tbody, tr, td, button {
     height: 100px;
     font-size: 40px;
     color: #333;
-    border: 1px solid #bbb;
+    border: 1px solid aquamarine;
     cursor: pointer;
   }
   
   .wrap {
     width: 410px;
     margin: 50px auto 0 auto;
-    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2), 2px 2px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 2px aquamarine, 2px 2px 5px aquamarine;
   }
   .input-box {
     position: relative;
@@ -23,10 +23,10 @@ table, tbody, tr, td, button {
     padding: 5px;
     box-sizing: border-box;
     text-align: center;
-    background-color: #202020;
+    background-color: aquamarine;
   }
   .show-box {
-    color: #757575;
+    color: white;
     text-align: right;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -40,33 +40,33 @@ table, tbody, tr, td, button {
     padding: 3px;
     width: 94%;
     height: 60px;
-    color: #fff;
+    color: white;
     text-align: right;
     font-size: 50px;
     box-sizing: border-box;
     border: none;
-    background-color: #202020;
+    background-color: aquamarine;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
   }
   button.number {
-    background-color: #efefef;
+    background-color: white;
   }
   button.number:hover {
-    background: #ddd;
+    background: white;
   }
   button.number:active {
-    background-color: #ccc;
+    background-color: white;
   }
   button.op {
-    background-color: #FF9B22;
+    background-color: aquamarine;
   }
   button.op:hover {
-    background-color: #f99112;
+    background-color: aquamarine;
   }
   button.op:active {
-    background-color: #EB7016;
+    background-color: aquamarine;
   }
   .col2 button {
     width: 201px;
