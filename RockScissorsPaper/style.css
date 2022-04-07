@@ -1,0 +1,37 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.butt1
+{
+ background: url(https://t1.daumcdn.net/cfile/tistory/13045F404D7C365D23) no-repeat 0px 0px white;
+ width: 140px;
+ height: 155px;
+}
+.butt2
+{
+ background: url(https://t1.daumcdn.net/cfile/tistory/13045F404D7C365D23) no-repeat -150px 0px white;
+ width: 130px;
+ height: 155px;
+}
+.butt3
+{
+ background: url(https://t1.daumcdn.net/cfile/tistory/13045F404D7C365D23) no-repeat -275px 0px white;
+ width: 170px;
+ height: 155px;
+}
+
+.opp
+{
+ transform: rotate(180deg);
+}
