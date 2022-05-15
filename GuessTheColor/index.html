@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>색깔 맞추기 게임</title>
+
+    <!-- custom font link -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+    <!-- custom css style -->
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+    <h1>The Great
+      <br>
+       <span id="colorDisplay">RGB</span>
+       <br>
+        color game</h1>
+
+    <div id="stripe">
+        <button id="reset">새로운 게임</button>
+        <span id="message"></span>
+        <button class="mode">쉬움</button>
+        <button class="mode selected">어려움</button>
+    </div>
+
+    <div id="container">
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+    </div>
+
+
+    <!-- game logic js file -->
+    <script type="text/javascript" src="RGB.js"></script>
+  </body>
+</html>
