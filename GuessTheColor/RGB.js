@@ -48,7 +48,7 @@ function setupSquares(){
         changeColors(clickedColor);
         h1.style.backgroundColor = clickedColor;
       } else{
-        this.style.backgroundColor = "#232323";
+        this.style.backgroundColor = "white";
         messageDisplay.textContent = "다시 시도하세요"
       }
     });
@@ -71,7 +71,7 @@ function reset(){
     }
 
   }
-  h1.style.backgroundColor = "steelblue";
+  h1.style.backgroundColor = "aquamarine";
   resetButton.textContent = "New Colors";
   messageDisplay.textContent = "";
 }
