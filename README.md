@@ -11,3 +11,7 @@
 # 3. RSP
 
 # ![image](https://user-images.githubusercontent.com/100067869/162227685-0f04ef47-c20f-46d0-aeb8-e69696162acb.png)
+
+# 4. GuessTheColor
+
+# ![image](https://user-images.githubusercontent.com/100067869/169036699-15c6be70-98a5-4db5-809a-a6df37149d2f.png)
